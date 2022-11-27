@@ -1,0 +1,23 @@
+.description {
+  background: url(../img/bg-characters.png) no-repeat top center/cover;
+  color: #fff;
+  padding-top: 176px;
+}
+
+.characters {
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 4rem;
+}
+
+.characters .left p {
+  max-width: 32.5rem;
+}
+
+.text-logo img {
+  margin-bottom: 1rem;
+}
+
+.text-logo p {
+  max-width: 10rem;
+}
