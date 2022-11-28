@@ -11,14 +11,14 @@
 .info-game ul {
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
 }
 
 .info-game li {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
+  justify-content: space-between;
+  padding: 0 20px;
 }
 
 .info-game span {
@@ -43,7 +43,6 @@
 
   .info-game li {
     width: 25.3%;
-    padding: 0;
   }
 
   .info-game span {
